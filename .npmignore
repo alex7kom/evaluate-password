@@ -1,0 +1,12 @@
+# ignore everything
+/*
+
+# whitelist src/
+!/src/
+
+# ignore test files
+__test__
+src/**/*.test.js
+src/**/*.spec.js
+
+## DO NOT EDIT ABOVE THIS LINE ##

@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`commonSequencePenalty  1`] = `0`;
+
+exports[`commonSequencePenalty 123ABCabc 1`] = `-9`;
+
+exports[`commonSequencePenalty 1111 1`] = `0`;
+
+exports[`commonSequencePenalty an example of somewhat short passphrase 1`] = `-3`;
+
+exports[`commonSequencePenalty j5JSxDUBBkYz!D1$I& 1`] = `0`;
+
+exports[`commonSequencePenalty n0sNsF0grZepgpfs 1`] = `0`;
+
+exports[`commonSequencePenalty password 1`] = `-3`;
+
+exports[`length  1`] = `0`;
+
+exports[`length 123ABCabc 1`] = `1`;
+
+exports[`length 1111 1`] = `0`;
+
+exports[`length an example of somewhat short passphrase 1`] = `30`;
+
+exports[`length j5JSxDUBBkYz!D1$I& 1`] = `6`;
+
+exports[`length n0sNsF0grZepgpfs 1`] = `5`;
+
+exports[`length password 1`] = `1`;
+
+exports[`norepeat  1`] = `0`;
+
+exports[`norepeat 123ABCabc 1`] = `9`;
+
+exports[`norepeat 1111 1`] = `0`;
+
+exports[`norepeat an example of somewhat short passphrase 1`] = `15`;
+
+exports[`norepeat j5JSxDUBBkYz!D1$I& 1`] = `12`;
+
+exports[`norepeat n0sNsF0grZepgpfs 1`] = `12`;
+
+exports[`norepeat password 1`] = `8`;
+
+exports[`unique  1`] = `0`;
+
+exports[`unique 123ABCabc 1`] = `9`;
+
+exports[`unique 1111 1`] = `0`;
+
+exports[`unique an example of somewhat short passphrase 1`] = `11`;
+
+exports[`unique j5JSxDUBBkYz!D1$I& 1`] = `12`;
+
+exports[`unique n0sNsF0grZepgpfs 1`] = `10`;
+
+exports[`unique password 1`] = `8`;
+
+exports[`variety  1`] = `-0`;
+
+exports[`variety 123ABCabc 1`] = `1`;
+
+exports[`variety 1111 1`] = `0`;
+
+exports[`variety an example of somewhat short passphrase 1`] = `11`;
+
+exports[`variety j5JSxDUBBkYz!D1$I& 1`] = `9`;
+
+exports[`variety n0sNsF0grZepgpfs 1`] = `3`;
+
+exports[`variety password 1`] = `0`;

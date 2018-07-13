@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `0`;
+
+exports[`123ABCabc 1`] = `11`;
+
+exports[`1111 1`] = `0`;
+
+exports[`an example of somewhat short passphrase 1`] = `64`;
+
+exports[`j5JSxDUBBkYz!D1$I& 1`] = `39`;
+
+exports[`n0sNsF0grZepgpfs 1`] = `30`;
+
+exports[`password 1`] = `14`;
